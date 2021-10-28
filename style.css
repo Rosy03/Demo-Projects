@@ -6,7 +6,7 @@
  }
  /* Home Image*/
  #home{
-	background-image: url('ksenia-varapaeva-lBElFnvck-M-unsplash.jpg');
+	background-image: url('./Portfolio Demo/ksenia-varapaeva-lBElFnvck-M-unsplash.jpg');
     min-height:100vh;
 	background-position: center;
 	background-size: cover;
@@ -15,7 +15,7 @@
  }
  /* About Image*/
  #aboutimg{
-	background-image: url('matheus-ferrero-W7b3eDUb_2I-unsplash.jpg');
+	background-image: url('./Portfolio Demo/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg');
     min-height:520px;
 	background-position: left-center;
 	background-size: 40% 90%;
@@ -33,7 +33,7 @@ transform:scale(1.1);
 	 
  /*Portfolio */	 
 #img1{
-background-image: url('persnickety-prints-3KHTEARI27Q-unsplash.jpg');
+background-image: url('./Portfolio Demo/persnickety-prints-3KHTEARI27Q-unsplash.jpg');
 min-height:500px;
 	background-position: left-center;
 	background-size: 40% 70%;
@@ -41,7 +41,7 @@ min-height:500px;
 	background-repeat: no-repeat;
 }	
 #img2{
-background-image: url('sonnie-hiles-gG70fyu3qsg-unsplash.jpg');
+background-image: url('./Portfolio Demo/sonnie-hiles-gG70fyu3qsg-unsplash.jpg');
 min-height:500px;
 	background-position: right center;
 	background-size: 70% 100%;
@@ -49,7 +49,7 @@ min-height:500px;
 	background-repeat: no-repeat;
 }
 #img3{
-background-image: url('taisiia-shestopal-_4LbmtaToEc-unsplash.jpg');
+background-image: url('./Portfolio Demo/taisiia-shestopal-_4LbmtaToEc-unsplash.jpg');
 min-height:500px;
 	background-position: left-center;
 	background-size: 40% 70%;
@@ -57,7 +57,7 @@ min-height:500px;
 	background-repeat: no-repeat;
 }
 #img4{
-background-image: url('windows-JqmOD1jpHHw-unsplash1.jpg');
+background-image: url('./Portfolio Demo/windows-JqmOD1jpHHw-unsplash1.jpg');
 min-height:500px;
 	background-position: right center;
 	background-size: 70% 90%;
@@ -65,7 +65,7 @@ min-height:500px;
 	background-repeat: no-repeat;
 }
 #img5{
-background-image: url('mathilde-langevin-sTamx4-y6FE-unsplash.jpg');
+background-image: url('./Portfolio Demo/mathilde-langevin-sTamx4-y6FE-unsplash.jpg');
 min-height:500px;
 	background-position: left-center;
 	background-size: 40% 70%;
@@ -73,7 +73,7 @@ min-height:500px;
 	background-repeat: no-repeat;
 }
 #img6{
-background-image: url('grzegorz-rakowski-3HPzBvG6nK4-unsplash.jpg');
+background-image: url('./Portfolio Demo/grzegorz-rakowski-3HPzBvG6nK4-unsplash.jpg');
 min-height:500px;
 	background-position: right center;
 	background-size: 70% 90%;
